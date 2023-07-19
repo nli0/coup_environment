@@ -1,0 +1,13 @@
+# conda create --name coup python=3.8
+# conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+gymnasium==0.28.1
+pettingzoo==1.23.1
+tqdm==4.65.0
+openai==0.27.8
+transformers==4.30.0
+tokenizers==0.13.3
+sentencepiece==0.1.95
+protobuf==3.20
+accelerate
+optimum
+wandb
